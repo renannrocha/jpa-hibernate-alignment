@@ -3,6 +3,8 @@
 > [!NOTE]
 > ***este é apenas um repositorio de estudo para contruções de aplicações utilizando JPA com Hibernate com Maven***
 
+<hr>
+
 ### dependencies ⚙️
 
 - [hibernate core](https://mvnrepository.com/artifact/org.hibernate/hibernate-core)
@@ -30,5 +32,17 @@
   <version>8.0.33</version>
 </dependency>
 ```
+<hr>
+
 ### java version 🔍
 [Java 17]()
+
+<hr>
+
+### Database Manager 🛠️
+[XAMMP]()
+
+<hr>
+
+### Maven version
+[4.0.0]()
