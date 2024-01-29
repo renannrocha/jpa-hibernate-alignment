@@ -1,4 +1,4 @@
-# jpa-hibernate-alignment
+# JavaEE - Mapeamento objeto-relacional com JPA / Hibernate
 
 > [!NOTE]
 > ***este é apenas um repositorio de estudo onde aborda de forma basica a contruções de aplicações utilizando JPA com Hibernate com Maven***
