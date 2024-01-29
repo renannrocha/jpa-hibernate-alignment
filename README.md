@@ -1,10 +1,12 @@
 # jpa-hibernate-alignment
 
-## dependencies 
+> [!NOTE]
+> ***este é apenas um repositorio de estudo para contruções de aplicações utilizando JPA com Hibernate com Maven***
 
-- hibernate core
+### dependencies ⚙️
+
+- [hibernate core](https://mvnrepository.com/artifact/org.hibernate/hibernate-core)
 ```
-<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
 <dependency>
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-core</artifactId>
@@ -12,23 +14,21 @@
   <type>pom</type>
 </dependency>
 ```
-- hibernate entitymanager
+- [hibernate entitymanager](https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager)
 ```
-<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
 <dependency>
   <groupId>org.hibernate</groupId>
   <artifactId>hibernate-entitymanager</artifactId>
   <version>5.6.15.Final</version>
 </dependency>
 ```
-- MySQL Connector Java
+- [MySQL Connector Java](https://mvnrepository.com/artifact/mysql/mysql-connector-java)
 ```
-<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 <dependency>
   <groupId>mysql</groupId>
   <artifactId>mysql-connector-java</artifactId>
   <version>8.0.33</version>
 </dependency>
 ```
-## java version 
-Java 17 
+### java version 🔍
+[Java 17]()
