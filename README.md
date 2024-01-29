@@ -1,7 +1,7 @@
 # jpa-hibernate-alignment
 
 > [!NOTE]
-> ***este é apenas um repositorio de estudo para contruções de aplicações utilizando JPA com Hibernate com Maven***
+> ***este é apenas um repositorio de estudo onde aborda de forma basica a contruções de aplicações utilizando JPA com Hibernate com Maven***
 
 <hr>
 
