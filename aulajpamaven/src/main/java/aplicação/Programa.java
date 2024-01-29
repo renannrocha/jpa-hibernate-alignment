@@ -17,6 +17,12 @@ public class Programa {
 		Pessoa p = em.find(Pessoa.class, 2);
 		System.out.println(p);
 		
+		// remover do banco de dados
+		Pessoa p2 = em.find(Pessoa.class, 2);
+		em.getTransaction().begin();
+		em.remove(p2);
+		em.getTransaction().commit();
+		
 		System.out.println("pronto");
 		em.close();
 	}
